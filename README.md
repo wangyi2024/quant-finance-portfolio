@@ -15,6 +15,7 @@ WANG Yi · Lingnan University · yiwang25@ln.hk
 |---|------|-----------|
 | 01 | `projects/01_hk_stock_returns.py` | 取数据 · 收益率 · 年化收益/波动 · 夏普比率 |
 | 02 | `projects/02_multi_stock_compare.py` | 归一化净值 · 风险-收益散点 · 相关性矩阵 · 分散风险 |
+| 03 | `projects/03_ma_crossover_backtest.py` | 移动平均 · 金叉/死叉信号 · 回测 · 防偷看未来 · 最大回撤 · 交易成本 |
 
 ## 运行
 ```bash
