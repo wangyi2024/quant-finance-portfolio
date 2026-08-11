@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 环境
+.env
+venv/
+.venv/
+
+# 大文件（按需保留输出图）
+*.wav
+*.wma
