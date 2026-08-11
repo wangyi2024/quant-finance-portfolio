@@ -18,6 +18,7 @@ WANG Yi · Lingnan University · yiwang25@ln.hk
 | 03 | `projects/03_ma_crossover_backtest.py` | 移动平均 · 金叉/死叉信号 · 回测 · 防偷看未来 · 最大回撤 · 交易成本 |
 | 04 | `projects/04_overfitting_demo.py` | 过拟合演示 · 参数扫描陷阱 · 训练/测试集 · 样本内/外 · 多重检验 |
 | 05 | `projects/05_news_sentiment_signal.py` | 金融NLP管线v1：新闻→VADER情感→对齐次日收益→IC(信息系数)·附诚信声明 |
+| 06 | `projects/06_sentiment_vader_vs_finbert.py` | 金融情感横评：VADER vs FinBERT · 理解模型边界 · 语气≠投资含义 |
 
 ## 运行
 ```bash
