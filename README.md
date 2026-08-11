@@ -17,6 +17,7 @@ WANG Yi · Lingnan University · yiwang25@ln.hk
 | 02 | `projects/02_multi_stock_compare.py` | 归一化净值 · 风险-收益散点 · 相关性矩阵 · 分散风险 |
 | 03 | `projects/03_ma_crossover_backtest.py` | 移动平均 · 金叉/死叉信号 · 回测 · 防偷看未来 · 最大回撤 · 交易成本 |
 | 04 | `projects/04_overfitting_demo.py` | 过拟合演示 · 参数扫描陷阱 · 训练/测试集 · 样本内/外 · 多重检验 |
+| 05 | `projects/05_news_sentiment_signal.py` | 金融NLP管线v1：新闻→VADER情感→对齐次日收益→IC(信息系数)·附诚信声明 |
 
 ## 运行
 ```bash
